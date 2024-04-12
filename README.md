@@ -25,6 +25,12 @@
 
 <h2 align="center">Output</h2>
 
+<h2 align="centre"> Report </h2>
+https://drive.google.com/file/d/19iwLSUo_0eiRLrH4Ly8ICAJljrCLfqaR/view?usp=sharing
+
+<h2 align="centre"> Logbook </h2>
+https://drive.google.com/file/d/1WI531eG7LXbgmR0wzufi-Cof9P9OS8aU/view?usp=sharing
+
 <p align="center">This is how the website looks</p>
 
 ![Screenshot 2024-04-11 005700](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/3d035237-46c2-4001-9e9c-d5683761f15e)
